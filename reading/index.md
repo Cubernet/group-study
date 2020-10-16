@@ -26,7 +26,7 @@ Consider to propose the *regular research papers* from the top conferences in th
 - CVPR: IEEE Conference on Computer Vision and Pattern Recognition
     - [2020](https://openaccess.thecvf.com/CVPR2020), [2019](https://openaccess.thecvf.com/CVPR2019),  [2018](https://openaccess.thecvf.com/CVPR2018)
 - ICCV: International Conference on Computer Vision
-    [2019](https://openaccess.thecvf.com/ICCV2019)
+    - [2019](https://openaccess.thecvf.com/ICCV2019)
 - ICML: International Conference on Machine Learning
     - [2020](https://icml.cc/virtual/2020/papers.html?filter=keywords), [2019](https://icml.cc/virtual/2019/papers.html?filter=keywords),  [2018](https://icml.cc/virtual/2018/papers.html?filter=keywords)
 - IJCAI: International Joint Conference on Artificial Intelligence
