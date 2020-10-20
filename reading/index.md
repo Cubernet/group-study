@@ -47,6 +47,6 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 - 1:30 pm on Monday of every week.
 
-| Date      | Presenter       | Venue      | Paper Title                                                                                                                                                     | Slides                                                              |
-| --------- | --------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 2020.8.17 | xx, xxx    | xxx     | [paper](paper.pdf)                                                     | [PDF](./slides/xxx.pdf)              |
+| Date      | Paper | Slides  |
+| --------- | --------------- | ---------- | 
+| 2020.8.17 |  [Appending Adversarial Frames for Universal Video Attack](https://arxiv.org/abs/1912.04538) | [Slides](./slides/xxx.pdf)              |
