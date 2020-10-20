@@ -45,7 +45,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 **Fall 2020**  
 
-- 1:30 pm on Monday of every week.
+- 11:00 am on Monday of every week.
 
 | Date      | Paper | Slides  |
 | --------- | --------------- | ---------- | 
