@@ -35,7 +35,7 @@ Consider to propose the *regular research papers* from the top conferences in th
 ## Discussion Format
 
 The primary goal of the discussion is to *understand what the paper says*. With that in mind, the presenter should address the following points.
-- Write down a note (a template can be found [here](./reading/template/notes_tpl.md)), such that anyone who does not read the paper can have a high-level understanding (of main contents, advantages and disadvantages) based on your note. 
+- Write down a note (a template can be found [here](./template/notes_tpl.md)), such that anyone who does not read the paper can have a high-level understanding (of main contents, advantages and disadvantages) based on your note. 
 - Structure your presentation in slides, and guide the discussion through (i) what is the problem to be solved? (ii) what are the key ideas/insights/techniques used to address the problem? and (iii) How do the authors justify their design?
 
 After discussion, keep the notes (in `md`) and slides (in `pdf`) in the directories `notes` and `slides`, respectively.
