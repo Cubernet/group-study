@@ -49,5 +49,5 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 | Date      | Paper | Slides  |
 | --------- | --------------- | ---------- | 
-| 2020.10.19 |  [Appending Adversarial Frames for Universal Video Attack](https://arxiv.org/abs/1912.04538) | [Slides](./slides/Appending%20Adversarial%20Frames%20for%20Universal%20Video.pdf)|
-| 2020.10.26 |  [Sparse Adversarial Perturbations for Videos](https://aaai.org/ojs/index.php/AAAI/article/view/4927) | [Slides](./slides/Sparse%20Adversarial%20Perturbations%20for%20Videos.pdf)|      
+| 2020.10.19 |  [Appending Adversarial Frames for Universal Video Attack](https://arxiv.org/abs/1912.04538) | [Slides](./Slides/Appending%20Adversarial%20Frames%20for%20Universal%20Video.pdf)|
+| 2020.10.26 |  [Sparse Adversarial Perturbations for Videos](https://aaai.org/ojs/index.php/AAAI/article/view/4927) | [Slides](./Slides/Sparse%20Adversarial%20Perturbations%20for%20Videos.pdf)|      
