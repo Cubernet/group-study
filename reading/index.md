@@ -49,6 +49,6 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 | Date      | Paper | Slides  | Notes  |
 | --------- | --------------- | ---------- | ---------- |
-| 2020.10.19 |  [Appending Adversarial Frames for Universal Video Attack](https://arxiv.org/abs/1912.04538) | [Slides](./Slides/Appending%20Adversarial%20Frames%20for%20Universal%20Video.pdf)| [Notes](./notes/Appending_Adversarial_Frames_for_Universal_Video_Attack.md)|
+| 2020.10.19 |  [Appending Adversarial Frames for Universal Video Attack](https://arxiv.org/abs/1912.04538) | [Slides](./Slides/Appending%20Adversarial%20Frames%20for%20Universal%20Video.pdf)|--|
 | 2020.10.26 |  [Sparse Adversarial Perturbations for Videos](https://aaai.org/ojs/index.php/AAAI/article/view/4927) | [Slides](./Slides/Sparse%20Adversarial%20Perturbations%20for%20Videos.pdf)|[Notes](./notes/Sparse_Adversarial_Perturbations_for_Videos.md)|  
 | 2020.11.2 |  [Sparse Black-box Video Attack with Reinforcement Learning](https://arxiv.org/abs/2001.03754) | [Slides](./Slides/Sparse_Black-box_Video_Attack_with_Reinforcement_Learning.pdf)|[Notes](./notes/Sparse_Black-box_Video_Attack_with_Reinforcement_Learning.md)| 
