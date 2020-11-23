@@ -15,7 +15,7 @@ Consider to propose the *regular research papers* from the top conferences in th
 - Security: Usenix Security Symposium
     - [2020](https://www.usenix.org/conference/usenixsecurity20/summer-accepted-papers), [2019](https://www.usenix.org/conference/usenixsecurity19/fall-accepted-papers), [2018](https://www.usenix.org/conference/usenixsecurity18/poster-session)
 - NDSS: ISOC Network and Distributed System Security Symposium
-    - [2020]( https://www.ndss-symposium.org/ndss2020/accepted-papers/), [2019](https://www.ndss-symposium.org/ndss2019/ndss-2019-posters/), [2018](https://www.ndss-symposium.org/ndss2018/posters/)
+    - [2020]( https://www.ndss-symposium.org/ndss2020/accepted-papers/), [2019](https://www.ndss-symposium.org/ndss-program/ndss-symposium-2019-program/), [2018](https://www.ndss-symposium.org/ndss2018/programme/)
 
 **Artificial Intelligence**  
 
@@ -53,4 +53,4 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.10.26 |  [Sparse Adversarial Perturbations for Videos](https://aaai.org/ojs/index.php/AAAI/article/view/4927) | [Slides](./Slides/Sparse%20Adversarial%20Perturbations%20for%20Videos.pdf)|[Notes](./notes/Sparse_Adversarial_Perturbations_for_Videos.md)|  
 | 2020.11.2 |  [Sparse Black-box Video Attack with Reinforcement Learning](https://arxiv.org/abs/2001.03754) | [Slides](./Slides/Sparse_Black-box_Video_Attack_with_Reinforcement_Learning.pdf)|[Notes](./notes/Sparse_Black-box_Video_Attack_with_Reinforcement_Learning.md)|  
 | 2020.11.9 |  [Heuristic Black-Box Adversarial Attacks on Video Recognition Models](https://ojs.aaai.org//index.php/AAAI/article/view/6918) | [Slides](./Slides/Heuristic_Black-Box_Adversarial_Attacks_on_Video_Recognition_Models.pdf)|[Notes](./notes/Heuristic_Black-Box_Adversarial_Attacks_on_Video_Recognition_Models.md)|  
-
+| 2020.11.16 |  [Transferable Adversarial Attacks for Image and Video Object Detection](https://arxiv.org/abs/1811.12641) | [Slides](./Slides/Transferable_Adversarial_Attacks_for_Image_and_Video_Object_Detection.pdf)|--|  
