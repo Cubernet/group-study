@@ -1,7 +1,7 @@
 
 **Title:** Adversarial Framing for Image and Video Classification
 
-**Source:** AAAI2019
+**Source:** AAAI19
 
 **Authors:** Konrad Zolna,Michal Zajac,Negar Rostamzadeh,Pedro O. Pinheiro
 
