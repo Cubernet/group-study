@@ -45,3 +45,5 @@ The paper trains an AF framework to be used on image and video sets.
 -Why are the main points of the heat map distributed around?
 
 -The size of the image and video has changed after adding the frame, how does the article deal with it?
+
+A:Before the image is trained, there will be a preprocessing module, one of which will control the image size: Keepsize. If Keepsize=True, the image length will be pre-deducted from the width, if False,the width is added.So the image with Keepsize is still the length, and the image without the size is changed to the length + width*2
