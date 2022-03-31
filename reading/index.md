@@ -2,7 +2,7 @@
 
  This Reading Group provides an opportunity for students, researchers and faculties to discuss and keep eyes on the current progress in `AI Security` and `Zero-trust-based Insider Threats`, and to learn how to do high-quality research.
 
- ## :pushpin: Paper Selection
+ ## :sparkles: Paper Selection
 
 Consider to propose the *regular research papers* from the top conferences in the recent three years (the most recent are more preferred):
 
@@ -32,7 +32,7 @@ Consider to propose the *regular research papers* from the top conferences in th
 - IJCAI: International Joint Conference on Artificial Intelligence
     - [2019](https://www.ijcai19.org/accepted-papers.html),  [2018](http://ijcai-18.org/accepted-papers/index.html)
 
-## :pushpin: Discussion Format
+## :page_facing_up: Discussion Format
 
 The primary goal of the discussion is to *understand what the paper says*. With that in mind, the presenter should address the following points.
 - Write down a note (a template can be found [here](./template/notes_tpl.md)), such that anyone who does not read the paper can have a high-level understanding (of main contents, advantages and disadvantages) based on your note. 
@@ -49,7 +49,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 | Date      | Paper | Slides  | Notes  | Presenter |
 | --------- | --------------- | ---------- | ---------- | ---------- |
-| demo |  [demo](demo) | [Slides](demo)| [Notes](demo)| [Your Name](Your Github homepage or your personal page.) |
+| demo |  [demo](demo) | [Slides](demo)| [Notes](demo)| [Your Name](Your Github homepage or your personal page) |
  
 
 **Fall 2020**  
