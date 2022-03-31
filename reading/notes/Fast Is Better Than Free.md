@@ -8,6 +8,8 @@
 
 **Summary**
 
+This work find a special adversarial training approach:FGSM adversarial training with random initialization, by using this approach to train model, the model can be beas effective as the model trained by PGD adversarial training while having lower cost.
+
 > Write a summary about the paper (try to avoid using figures). It should address the important issues of this paper (try to ask yourself the following questions):
 > - What is the *problem* the paper aims to solve? Can you explain the problem clearly?
 > - How can the paper address the problem? Can you explain the *main idea* of the paper in your own words, while convincing readers that the idea exactly can solve the problem? At a high level, how does the paper convert the idea to a practical system/algorithm? 
