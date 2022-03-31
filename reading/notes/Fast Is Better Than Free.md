@@ -22,8 +22,8 @@ This work find a special adversarial training approach:FGSM adversarial training
 
 **Weaknesses**  
 
-> Give a brief summarization of disadvantages (that can have been mentioned in the Summary part) in *bullets*. Do not trust papers in total, and use *critical thinking* (note that this is the *most important* skill in academic research; try to train this capability) to find shadow sides.  
-
+- The theoretical proof of the random initialization method proposed in this paper is lacking
+- The effect of iteration was not considered in the ablation experiments with Free FGSM
 ---
 
 **Comments**  
