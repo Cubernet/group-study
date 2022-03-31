@@ -1,8 +1,8 @@
-**Title:** <place your *paper title*>
+**Title:** Fast Is Better Than Free: Revisiting Adversarial Training
 
-**Source:** <place the *short name* of the conference that your paper comes from>
+**Source:** ICLR 2020
 
-**Authors:** <place the author names of your paper, and separate authors by comma; be careful about each author's first name and last name>
+**Authors:** Eric Wong,Leslie Rice,J. Zico Kolter
 
 ---
 
