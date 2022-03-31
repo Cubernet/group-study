@@ -26,6 +26,3 @@ This work find a special adversarial training approach:FGSM adversarial training
 - The effect of iteration was not considered in the ablation experiments with Free FGSM
 ---
 
-**Comments**  
-
-> Give more detailed elaboration for each weakness point, and convince that *why it is a weakness*; if possible, try to give some fixing solution/suggestion. You can also pose some questions in this part. 
