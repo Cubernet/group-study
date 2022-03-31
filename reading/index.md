@@ -1,6 +1,6 @@
 # Reading Group
 
- This Reading Group provides an opportunity for students, researchers and faculties to discuss and keep eyes on the current progress in `AI Security`, and to learn how to do high-quality research.
+ This Reading Group provides an opportunity for students, researchers and faculties to discuss and keep eyes on the current progress in `AI Security` and `Zero-trust-based Insider Threats`, and to learn how to do high-quality research.
 
  ## Paper Selection
 
@@ -42,6 +42,15 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 
 
 ## Schedule
+
+**Spring 2022**
+
+- 2:30 pm on Friday of every week.
+
+| Date      | Paper | Slides  | Notes  |
+| --------- | --------------- | ---------- | ---------- |
+| demo |  [demo](demo) | [Slides](demo)| [Notes](demo)|
+ 
 
 **Fall 2020**  
 
