@@ -14,15 +14,15 @@ This work find a special adversarial training approach:FGSM adversarial training
 
 **Strengthens**  
 
-- Speed up adversarial training without compromising the model robustness
+- Speed up adversarial training without compromising the model robustness.
 
-- A variety of accelerated training methods are listed in this article for our reference
+- A variety of accelerated training methods are listed in this article for our reference.
 
 ---
 
 **Weaknesses**  
 
-- The theoretical proof of the random initialization method proposed in this paper is lacking
-- The effect of iteration was not considered in the ablation experiments with Free FGSM
+- The theoretical proof of the random initialization method proposed in this paper is lacking.
+- The effect of iteration was not considered in the ablation experiments with Free FGSM.
 ---
 
