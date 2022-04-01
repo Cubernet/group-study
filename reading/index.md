@@ -48,8 +48,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 - 2:30 pm on Friday of every week.
 
 | Date      | Paper | Slides  | Notes  | Presenter |
-| --------- | --------------- | ---------- | ---------- | ---------- |
-| 2022.3.25 |  [Fast Is Better Than Free](https://arxiv.org/pdf/2001.03994.pdf?ref=https://githubhelp.com) | [Slides](./Slides/Fast%20Is%20Better%20Than%20Free.pdf)| [Notes](./notes/Fast_Is_Better_Than_Free.md)| [Yi](https://github.com/Rid-Yi) |
+| --------- | --------------- | ---------- | ---------- | :---------: |
+| 2022.3.25 |  [Fast Is Better Than Free](https://arxiv.org/pdf/2001.03994.pdf) | [Slides](./Slides/Fast%20Is%20Better%20Than%20Free.pdf)| [Notes](./notes/Fast_Is_Better_Than_Free.md)| [Yi](https://github.com/Rid-Yi) |
  
 
 **Fall 2020**  
