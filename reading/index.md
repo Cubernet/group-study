@@ -50,6 +50,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | Date      | Paper | Slides  | Notes  | Presenter |
 | --------- | --------------- | ---------- | ---------- | :---------: |
 | 2022.3.25 |  [Fast Is Better Than Free](https://arxiv.org/pdf/2001.03994.pdf) | [Slides](./Slides/Fast%20Is%20Better%20Than%20Free.pdf)| [Notes](./notes/Fast_Is_Better_Than_Free.md)| [Yi](https://github.com/Rid-Yi) |
+| 2022.4.1 |  [Dynamic Divide and Conquer Adversarial Training](https://arxiv.org/pdf/2106.14132.pdf) | [Slides](./Slides/Dynamic_Divide_and_Conquer_Adversarial_Training.pdf)| [Notes](./notes/Dynamic_Divide_and_Conquer_Adversarial_Training.md)| [Yi](https://github.com/Rid-Yi) |
  
 
 **Fall 2020**  
