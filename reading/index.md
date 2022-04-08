@@ -51,7 +51,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | --------- | --------------- | ---------- | ---------- | :---------: |
 | 2022.3.25 |  [Fast Is Better Than Free](https://arxiv.org/pdf/2001.03994.pdf) | [Slides](./Slides/Fast%20Is%20Better%20Than%20Free.pdf)| [Notes](./notes/Fast_Is_Better_Than_Free.md)| [Yi](https://github.com/Rid-Yi) |
 | 2022.4.1 |  [Dynamic Divide and Conquer Adversarial Training](https://arxiv.org/pdf/2003.06555.pdf) | [Slides](./Slides/Dynamic_Divide_and_Conquer_Adversarial_Training.pdf)| [Notes](./notes/Dynamic_Divide_and_Conquer_Adversarial_Training.md)| [Yi](https://github.com/Rid-Yi) |
- 
+| 2022.4.1 |  [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks]( https://arxiv.org/abs/1911.07135) | [Slides](./Slides/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pptx)|--| [Xu](https://github.com/YixiaoXu)|
+
 
 **Fall 2020**  
 
