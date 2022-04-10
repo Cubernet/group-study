@@ -52,7 +52,8 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2022.3.25 |  [Fast Is Better Than Free](https://arxiv.org/pdf/2001.03994.pdf) | [Slides](./Slides/Fast%20Is%20Better%20Than%20Free.pdf)| [Notes](./notes/Fast_Is_Better_Than_Free.md)| [Yi](https://github.com/Rid-Yi) |
 | 2022.4.1 |  [Dynamic Divide and Conquer Adversarial Training](https://arxiv.org/pdf/2003.06555.pdf) | [Slides](./Slides/Dynamic_Divide_and_Conquer_Adversarial_Training.pdf)| [Notes](./notes/Dynamic_Divide_and_Conquer_Adversarial_Training.md)| [Yi](https://github.com/Rid-Yi) |
 | 2022.4.1 |  [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks]( https://arxiv.org/abs/1911.07135) | [Slides](./Slides/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pptx)|--| [Xu](https://github.com/YixiaoXu)|
-
+| 2022.4.1 | [Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries](https://www.usenix.org/conference/usenixsecurity21/presentation/xing) | [Slides](./Slides/Ripple A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries.pdf) |[Notes](./notes/Ripple A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries.md)| [Joe](https://github.com/joexu01) |
+| 2022.4.8 | [Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks](https://www.usenix.org/conference/usenixsecurity21/presentation/shen-kaiwen) | [Slides](./Slides/Weak_Links_in_Authentication_Chains_A_Large-scale_Analysis_of_Email_Sender_Spoofing_Attacks.pdf) |[Notes](./notes/Weak_Links_in_Authentication_Chains_A_Large-scale_Analysis_of_Email_Sender_Spoofing_Attacks.md)| [Joe](https://github.com/joexu01) |
 
 **Fall 2020**  
 
@@ -68,3 +69,4 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2020.11.23 |  [Stealthy Adversarial Perturbations Against Real-Time Video Classification Systems](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_03A-3_Li_paper.pdf) | [Slides](https://www.ndss-symposium.org/wp-content/uploads/ndss2019_03A-3_Li_slides.pdf)|[Notes](./notes/Stealthy_Adversarial_Perturbations_Against_Real-time_Video_Classification_System.md)|    
 | 2020.11.30 |  [Adversarial Framing for Image and Video Classification](https://aaai.org/ojs/index.php/AAAI/article/view/5175)|  [Slides](./Slides/Adversarial%20Framing%20for%20Image%20and%20Video%20Classification_Slides.pdf)|[Notes](./notes/Adversarial%20Framing%20for%20Image%20and%20Video%20Classification.md)|
 | 2020.12.12 |  [Flickering_Adversarial_Attacks_against_Video_Recognition_Networks](https://arxiv.org/abs/2002.05123)|  [Slides](./Slides/Flickering_Adversarial_Attacks_against_Video_Recognition_Networks.pdf)|[Notes](./notes/Flickering_Adversarial_Attacks_against_Video_Recognition_Networks.md)|
+
