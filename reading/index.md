@@ -54,6 +54,7 @@ After discussion, keep the notes (in `md`) and slides (in `pdf`) in the director
 | 2022.4.1 |  [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks]( https://arxiv.org/abs/1911.07135) | [Slides](./Slides/Zhang_The_Secret_Revealer_Generative_Model-Inversion_Attacks_Against_Deep_Neural_Networks_CVPR_2020_paper.pptx)|--| [Xu](https://github.com/YixiaoXu)|
 | 2022.4.1 | [Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries](https://www.usenix.org/conference/usenixsecurity21/presentation/xing) | [Slides](./Slides/Ripple%20A%20Programmable,%20Decentralized%20Link-Flooding%20Defense%20Against%20Adaptive%20Adversaries.pdf) |[Notes](./notes/Ripple%20A%20Programmable,%20Decentralized%20Link-Flooding%20Defense%20Against%20Adaptive%20Adversaries.md)| [Joe](https://github.com/joexu01) |
 | 2022.4.8 | [Weak Links in Authentication Chains: A Large-scale Analysis of Email Sender Spoofing Attacks](https://www.usenix.org/conference/usenixsecurity21/presentation/shen-kaiwen) | [Slides](./Slides/Weak_Links_in_Authentication_Chains_A_Large-scale_Analysis_of_Email_Sender_Spoofing_Attacks.pdf) |[Notes](./notes/Weak_Links_in_Authentication_Chains_A_Large-scale_Analysis_of_Email_Sender_Spoofing_Attacks.md)| [Joe](https://github.com/joexu01) |
+| 2022.5.6 |  [Reinforcement Learning background](https://www.davidsilver.uk/teaching/)| [Slides](./Slides/Reinforcement_Learning_background.pdf)| --| [Yi](https://github.com/Rid-Yi) |
 
 **Fall 2020**  
 
