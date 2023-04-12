@@ -21,3 +21,4 @@ This is a collection of resources on academia. Hope they are helpful for your re
 ## :busts_in_silhouette: Homepages
 
 - [Nicholas Carlini](https://nicholas.carlini.com/)
+- [Yinqian Zhang](https://yinqian.org/)
